@@ -1,4 +1,4 @@
 # PortScan
-Programa feito em Python similar ao Nmap que faz o escaneamento para encontrar possíveis portas abertas!
+Python Scrit similar to Nmap that scans ports of a domain!
 
-OBS: Para fins de aprendizado e conhecimento.
+**OBS: Educational Purposes**
